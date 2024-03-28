@@ -7,6 +7,5 @@
 ## conversational_agent is created with aforementioned tool. Depending on the type of query the tool are used
 
 
-
-https://github.com/Kamalesh9483/Custom_tools_and_Agents_Langchain/assets/80197808/7d408348-8139-4c69-9f19-30a6cf69b2b1
+https://github.com/Kamalesh9483/Custom_tools_and_Agents_Langchain/assets/80197808/054ab18f-0ae6-4714-8d53-64fcbf1b5ee8
 
